@@ -19,7 +19,7 @@
   "author": "Cory House",
   "license": "MIT",
   "dependencies": {
-    "ajv": "^6.10.2",
+    "ajv": "^6.12.3",
     "braces": "^2.3.1",
     "growl": "^1.10.5",
     "whatwg-fetch": "1.0.0"
